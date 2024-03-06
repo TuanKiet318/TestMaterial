@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinhWindows\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F677BB48-247A-473A-8C29-23DD1954FB1C}|Test\\Test.csproj|d:\\laptrinhwindows\\test\\test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F677BB48-247A-473A-8C29-23DD1954FB1C}|Test\\Test.csproj|solutionrelative:test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F677BB48-247A-473A-8C29-23DD1954FB1C}|Test\\Test.csproj|D:\\LapTrinhWindows\\Test\\test\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F677BB48-247A-473A-8C29-23DD1954FB1C}|Test\\Test.csproj|solutionrelative:test\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MaterialDesignInXamlToolkit-master\\MaterialDesignInXamlToolkit-master\\MaterialDesignThemes.Wpf\\bin\\Debug\\MaterialDesignThemes.Wpf.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F677BB48-247A-473A-8C29-23DD1954FB1C}|Test\\Test.csproj|D:\\LapTrinhWindows\\Test\\test\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F677BB48-247A-473A-8C29-23DD1954FB1C}|Test\\Test.csproj|solutionrelative:test\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaterialDesignThemes.Wpf.xml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MaterialDesignInXamlToolkit-master\\MaterialDesignInXamlToolkit-master\\MaterialDesignThemes.Wpf\\bin\\Debug\\MaterialDesignThemes.Wpf.xml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MaterialDesignInXamlToolkit-master\\MaterialDesignInXamlToolkit-master\\MaterialDesignThemes.Wpf\\bin\\Debug\\MaterialDesignThemes.Wpf.xml",
+              "ViewState": "AQIAANUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-03-05T06:04:46.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\LapTrinhWindows\\Test\\Test\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Test\\App.xaml.cs",
+              "ToolTip": "D:\\LapTrinhWindows\\Test\\Test\\App.xaml.cs",
+              "RelativeToolTip": "Test\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:34:02.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\LapTrinhWindows\\Test\\Test\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Test\\MainWindow.xaml",
+              "ToolTip": "D:\\LapTrinhWindows\\Test\\Test\\MainWindow.xaml",
+              "RelativeToolTip": "Test\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-04T16:30:14.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\LapTrinhWindows\\Test\\Test\\App.xaml",
+              "RelativeDocumentMoniker": "Test\\App.xaml",
+              "ToolTip": "D:\\LapTrinhWindows\\Test\\Test\\App.xaml",
+              "RelativeToolTip": "Test\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-04T16:29:20.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

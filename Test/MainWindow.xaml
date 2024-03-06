@@ -1,0 +1,28 @@
+﻿<Window x:Class="Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Test"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox
+  VerticalAlignment="Center"
+  materialDesign:HintAssist.Hint="Floating Hint"
+  Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+        <StackPanel>
+            <CheckBox
+    x:Name="RevealPasswordFloatingEnabled"
+    Content="Enabled" />
+            <PasswordBox
+    materialDesign:HintAssist.HelperText="Bound to Password2"
+    materialDesign:HintAssist.Hint="Password"
+    materialDesign:PasswordBoxAssist.Password="{Binding Password2, Mode=TwoWay}"
+    materialDesign:TextFieldAssist.HasClearButton="True"
+    IsEnabled="{Binding ElementName=RevealPasswordFloatingEnabled, Path=IsChecked}"
+    Style="{StaticResource MaterialDesignFloatingHintRevealPasswordBox}" />
+        </StackPanel>
+    </Grid>
+</Window>
